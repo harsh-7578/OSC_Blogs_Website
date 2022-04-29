@@ -34,15 +34,15 @@ export default function Contact() {
               className="text-dark"
               rel="noreferrer"
               target="_blank"
-              href="https://www.github.com/harsh7578"
+              href="https://www.github.com/harsh-7578"
             >
-              <h5>{<GoMarkGithub />} : harsh7578</h5>
+              <h5>{<GoMarkGithub />} : harsh-7578</h5>
             </a>
             <a
               className="text-dark"
               rel="noreferrer"
               target="_blank"
-              href="www.linkedin.com/in/harsh-singh-31b28420a"
+              href="https://www.linkedin.com/in/harsh-singh-31b28420a"
             >
               <h5>{<GrLinkedin />} : Harsh Singh</h5>
             </a>
@@ -80,21 +80,21 @@ export default function Contact() {
               target="_blank"
               href="mailto:mgdhole_b20@it.vjti.ac.in"
             >
-              <h5>{<GoMail />} : </h5>
+              <h5>{<GoMail />} :  mgdhole_b20@it.vjti.ac.in</h5>
             </a>
             <a
               className="text-dark"
               rel="noreferrer"
               target="_blank"
-              href="/"
+              href="https://github.com/MANTHAN137"
             >
-              <h5>{<GoMarkGithub />} : </h5>
+              <h5>{<GoMarkGithub />} : MANTHAN137</h5>
             </a>
             <a
               className="text-dark"
               rel="noreferrer"
               target="_blank"
-              href="/"
+              href="https://www.linkedin.com/in/manthan-dhole-b5a22821a/"
             >
               <h5>{<GrLinkedin />} : Manthan Dhole</h5>
             </a>
@@ -110,7 +110,7 @@ export default function Contact() {
               </ul>
             </div>
 
-            <h4>About Me :</h4>
+            {/* <h4>About Me :</h4> */}
             <p className="contentjustify">
               
             </p>
@@ -138,15 +138,15 @@ export default function Contact() {
               className="text-dark"
               rel="noreferrer"
               target="_blank"
-              href="/"
+              href="https://github.com/deeptivjti"
             >
-              <h5>{<GoMarkGithub />} : </h5>
+              <h5>{<GoMarkGithub />} :deeptivjti</h5>
             </a>
             <a
               className="text-dark"
               rel="noreferrer"
               target="_blank"
-              href="/"
+              href="https://www.linkedin.com/in/deepti-agrawal-967360211/"
             >
               <h5>{<GrLinkedin />} :Deepti Agrawal</h5>
             </a>
@@ -190,15 +190,15 @@ export default function Contact() {
               className="text-dark"
               rel="noreferrer"
               target="_blank"
-              href="/"
+              href="https://github.com/tanvibote"
             >
-              <h5>{<GoMarkGithub />} : </h5>
+              <h5>{<GoMarkGithub />} : tanvibote</h5>
             </a>
             <a
               className="text-dark"
               rel="noreferrer"
               target="_blank"
-              href="/"
+              href="https://www.linkedin.com/in/tanavi-bote-5bb62b227/"
             >
               <h5>{<GrLinkedin />} : Tanavi Bote</h5>
             </a>
